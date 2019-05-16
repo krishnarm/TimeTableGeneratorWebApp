@@ -1,4 +1,4 @@
-# Note :TimeTableGeneratorWebApp was inherited from the angular 2 starter template(https://github.com/RbkGh/EliteAdmin-UniversityLogin_Starter) i wrote.Well,I think I stole that paid theme because I was powerful(hacker) and broke at the start of the project[I'm even scared of myself]:)!
+
 # SAMPLE SHOTS :
 
 # TUTORS==>
